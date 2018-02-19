@@ -1,0 +1,212 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+
+.bloc_principal {
+	padding-top:100px;
+	padding-bottom:100px;
+	background-image: url(images/banniere.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	color: white;
+	font-family: georgia;
+}
+
+.bloc_principal h1{
+	margin: 30px;
+	font-size: 80px;
+	text-align: center;
+	
+}
+
+.bloc_principal p {
+	color:white;
+	margin: 20px;
+	font-size: 35px;
+	margin-top: 80px;
+	text-align: center;
+
+}
+
+.bloc_principal a {
+	color: grey;
+	margin: 15px;
+	font-size: 30px;
+	margin-top: 50px;
+	text-align: center;
+}
+
+
+
+.sous_bloc {
+	text-align:center;
+	padding-top:30px;
+	padding-bottom:30px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+	font-family: helvetica;
+	opacity: 0.9;
+}
+
+.sous_bloc p {
+	color:#FFF;
+	font-size: 20px;
+}
+
+
+.sous_bloc_1 {	
+	color:white;
+	background-image: url(images/stop.jpeg);
+	margin-bottom: 30px;
+	opacity: 0.9;
+}
+.sous_bloc_2 {	
+	color:white;
+	background-image: url(images/camp.jpeg);
+	margin-bottom: 30px;
+	opacity: 0.9;
+}
+.sous_bloc_3 {
+	color: white;
+	background-image: url(images/survie.jpeg);
+	margin-bottom: 30px;
+	opacity: 0.9;
+}
+
+.btn {
+	background-color: white;
+	background-attachment: none;
+}
+
+h2{
+	margin-bottom: 30px;
+	font-family: helvetica;
+	font-size: 40px;
+}
+
+p {
+	margin-bottom: 30px;
+	font-family: helvetica;
+	font-size: 45px;
+	color: white;
+}
+
+a {
+	color: 
+}
+
+
+h3 {
+	text-align: center;
+	color: white;
+	background-color: grey;
+	padding: 30px;
+}
+
+
+ul{
+	background-image: url(images/fond.jpeg); 
+	padding: 10px;
+}
+li {
+	text-align: center;
+}
+
+
+.sylvain_tesson {
+	color: white;
+	font-family: helvetica;
+	font-size: 20px;
+	margin: 50px;
+}
+
+.sylvain_tesson p {
+	padding: 15px;
+	margin-top: 30px;
+}
+
+
+
+
+.mike_horn {
+	color: white;
+	font-family: helvetica;
+	font-size: 20px;
+	margin: 50px;
+}
+
+.mike_horn p {
+	padding: 15px;
+	margin-top: 30px;
+}
+
+
+
+.matthieu_delaunay{
+	color: white;
+	font-family: helvetica;
+	font-size: 20px;
+	margin: 50px;
+}
+
+
+.matthieu_delaunay p {
+	padding: 15px;
+	margin-top: 30px;
+}
+
+
+
+
+.paul_delaunay{
+	color: white;
+	font-family: helvetica;
+	font-size: 20px;
+	margin: 50px;
+}
+
+
+.paul_delaunay p {
+	padding: 15px;
+	margin-top: 30px;
+}
+
+
+
+.footer p{
+	color: white;
+	font-size: 20px;
+	font-family: georgia;
+	text-align: center;
+	background-color: grey; 
+
+}
+
+.footer-links {
+  color: #337AB7;
+  font-size: 50px;
+  text-align: center;
+  justify-content: space-between;
+  justify-content: space-around;
+  padding: 30px;
+  margin-left: 25px; 
+}
+
+.footer-links : hover {
+  color: b;
+}
+
+
+
